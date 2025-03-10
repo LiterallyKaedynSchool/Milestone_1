@@ -14,6 +14,3 @@ if str_userSpeed < INT_LIMIT:
     print(STR_GOOD)
 else:
     print(STR_BAD)
-
-
-# This code is copyrighted by Kaedyn Eastall and may not be copied or distributed without permission.
