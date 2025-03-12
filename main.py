@@ -1,5 +1,5 @@
 # Variable Setting
-INT_LIMIT = 100
+INT_LIMIT = 101
 STR_SPEEDQUESTION = "How fast were you going (KM/H)? "
 STR_NAMEQUESTION = "What is your name? "
 int_userSpeed = 0
