@@ -1,5 +1,5 @@
 # Variable Setting
-INT_LIMIT = 101
+INT_LIMIT = 56
 STR_SPEEDQUESTION = "How fast were you going (KM/H)? "
 STR_NAMEQUESTION = "What is your name? (Input \"END\" to end loop) "
 int_userSpeed = 0
@@ -23,4 +23,4 @@ while bool_again == True:
     else:
         print(STR_BAD.format(str_userName, INT_FINE))
     
-print("Bye!")
+print("Bye!"
